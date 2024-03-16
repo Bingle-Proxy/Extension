@@ -1,0 +1,40 @@
+{
+  "manifest_version": 2,
+  "name": "Bingle Proxy",
+  "short_name": "BingleProxy",
+  "version": "1.0",
+
+    "commands": {
+        "_execute_browser_action": {
+            "suggested_key": {
+                "default": "Ctrl+B"
+            },
+            "description": "Bingle Run"
+        }
+    }
+,
+"description": "Web Proxy",
+
+  "icons": {
+    "48": "assets/logo-48.png",
+    "128": "assets/logo-128.png"
+  },
+
+  "permissions": [
+    "contextMenus",
+    "storage",
+    "webNavigation"
+  ],
+
+  "browser_action": {
+    "default_icon": "assets/logo.png",
+    "default_title": "Bingle Proxy"
+  },
+
+  "background": {
+    "scripts": [
+      "background.js"
+    ],
+    "persistent": false
+  }
+}
