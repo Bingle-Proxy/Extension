@@ -10,12 +10,12 @@ Website: [Free Web Proxy And The Most Advanced Online Proxy](https://www.bingle.
 
 ## To install manually follow the steps:
 
-1. Please make sure that [CroxyProxy Chrome web store item](https://chrome.google.com/webstore/detail/croxyproxy-free-web-proxy/lmmpgfjnchldhcieiiegcpdmaidkaanb) is unavailable for you before the manual installation.
+1. Please make sure that [Bingle Proxy Chrome web store item](https://chrome.google.com/webstore/detail/bingleproxy/lmmpgfjnchldhcieiiegcpdmaidkaanb) is unavailable for you before the manual installation.
    In case of manual installation you will have to follow all extension updates manually.
 
    **!!! Continue with the next steps only if you can't install from Chrome web store directly. !!!**
 
-2. Download the extension using the link [https://github.com/croxy-proxy-official/extension/raw/master/CroxyProxyExtension.crx](https://github.com/croxy-proxy-official/extension/raw/master/CroxyProxyExtension.crx)
+2. Download the extension using the link [https://codeload.github.com/Bingle-Proxy/extension/zip/refs/heads/main](https://codeload.github.com/Bingle-Proxy/extension/zip/refs/heads/main)
 3. Visit Chrome extensions page chrome://extensions/
 
    ![Extensions page](https://github.com/croxy-proxy-official/extension/raw/master/image/extensions.png)
