@@ -1,4 +1,4 @@
-# Bingle Proxy Chrome/Edge extension repository
+# Bingle Proxy Chrome/Edge extension
 
 ![Bingle Proxy web proxy](https://i.imgur.com/U8Thv1w.png)
 
