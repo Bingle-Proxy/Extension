@@ -1,6 +1,6 @@
 # Bingle Proxy Chrome/Edge extension repository
 
-![Bingle Proxy web proxy](https://i.imgur.com/s0zKL9k.png)
+![Bingle Proxy web proxy](https://i.imgur.com/U8Thv1w.png)
 
 Current extension version: **1.0**, update date: **2024-03-16**.
 
